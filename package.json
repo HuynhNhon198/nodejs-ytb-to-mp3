@@ -1,0 +1,19 @@
+{
+  "name": "backend-ytb-to-mp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuynhNhon198/nodejs-ytb-to-mp3.git"
+  },
+  "author": "huynh nhon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuynhNhon198/nodejs-ytb-to-mp3/issues"
+  },
+  "homepage": "https://github.com/HuynhNhon198/nodejs-ytb-to-mp3#readme"
+}
